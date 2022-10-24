@@ -1,4 +1,4 @@
-![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+[![MasterHead](https://happy05dz.tumblr.com/image/164289564000)]
 <h1 align="center">Hi 👋, I'm clapycodes</h1>
 <h3 align="center">A passionate frontend developer from Macedonia</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761142135cdbaf983ec18afff21839be8d0332c8aded&rid=giphy.gif&ct=g">
@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sami-mustafa-927484235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sami-mustafa-927484235" height="30" width="40" /></a>
 <a href="https://instagram.com/clapycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clapycodes" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/clapycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clapycodes" height="30" width="40" /></a>
+<a href="https://www.youtube.com/clapycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clapycodes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
