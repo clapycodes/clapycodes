@@ -1,4 +1,4 @@
-[![MasterHead](https://happy05dz.tumblr.com/image/164289564000)]
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)]
 <h1 align="center">Hi 👋, I'm clapycodes</h1>
 <h3 align="center">A passionate frontend developer from Macedonia</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761142135cdbaf983ec18afff21839be8d0332c8aded&rid=giphy.gif&ct=g">
